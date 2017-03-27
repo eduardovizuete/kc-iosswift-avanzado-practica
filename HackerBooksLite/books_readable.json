@@ -98,13 +98,6 @@
         "title": "JavaScript Enlightenment"
     },
     {
-        "authors": "Jeff Heard",
-        "image_url": "http://hackershelf.com/media/cache/22/76/22765abc7228eba3944a1656a595617b.jpg",
-        "pdf_url": "http://vis.renci.org/jeff/wp-content/uploads/2009/01/beautifulcode.pdf",
-        "tags": "graphics, haskell",
-        "title": "Beautiful Code, Compelling Evidence"
-    },
-    {
         "authors": "Eric Sink",
         "image_url": "http://hackershelf.com/media/cache/09/85/0985f617a7e7912300ddcf25fbd60b89.jpg",
         "pdf_url": "http://ericsink.com/vcbe/vcbe_a4_lo.pdf",
